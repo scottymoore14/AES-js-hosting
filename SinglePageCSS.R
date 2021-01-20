@@ -92,7 +92,6 @@ ul li:hover a {
 
 /* Hero Section */
   .hero {
-    background-image: url("https://github.com/scottymoore14/AES-js-hosting/blob/master/sunrise spring3.jpg");
     height: 400px;
     background-attachment: fixed;
     background-size: cover;
