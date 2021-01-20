@@ -92,7 +92,7 @@ ul li:hover a {
 
 /* Hero Section */
   .hero {
-    background-image: url("sunrise spring3.jpg");
+    background-image: url("https://github.com/scottymoore14/AES-js-hosting/blob/master/sunrise spring3.jpg");
     height: 400px;
     background-attachment: fixed;
     background-size: cover;
@@ -267,7 +267,7 @@ ul li:hover a {
 }
 /* Parallax Section */
   .banner {
-    background-image: url("sunrise spring4.jpg");
+    background-image: url("https://github.com/scottymoore14/AES-js-hosting/blob/master/sunrise spring4.jpg");
     height: 300px;
     background-attachment: fixed;
     background-size: cover;
