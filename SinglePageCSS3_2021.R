@@ -92,7 +92,7 @@ ul li:hover a {
 
 /* Hero Section */
   .hero {
-    background-image: url("S:/NCOD/NCOD Staff Folders/Cheyna Brower/AES Text Comments/Free Text Report 2021/sticky stack 2.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/scottymoore14/AES-js-hosting/Ssticky stack 2.jpg");
     height: 418px;
     background-attachment: fixed;
     background-size: cover;
@@ -124,10 +124,10 @@ ul li:hover a {
     float: left;
     padding-left: 20px;
     padding-right: 20px;
-    color: #FFFFFF;
+    color: #FFFFFF;!important;
   }
 .about {
-  display: inline-block
+  display: inline-block;
   color: #FFFFFF; 
 }
 .about1 {
@@ -198,7 +198,7 @@ ul li:hover a {
 }
 /* Stats Gallery */
   .stats {
-    color: #070506;
+    color: #FFFFFFF;
       margin-bottom: 5px;
     font-size: 22pt;
   }
@@ -213,6 +213,17 @@ ul li:hover a {
   margin-bottom: 0px;
   margin-left: -6px
 }
+.gallery3{
+clear: both;
+    display: inline-block;
+    width: 100%;
+    background-color: #RRGGBBAA;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: -25px;
+}
 .thumbnail {
   width: 25%;
   text-align: center;
@@ -220,6 +231,15 @@ ul li:hover a {
   margin-top: 15px;
   border: none;
   background-color: #RRGGBBAA;
+}
+.thumbnail4 {
+    width: 20%;
+    text-align: center;
+    float: left;
+    margin-top: 15px;
+    border: none;
+    background-color: #RRGGBBAA;
+    color: #FFFFFF;
 }
 .gallery .thumbnail h4 {
   margin-top: 5px;
@@ -256,7 +276,7 @@ background-color: #7a8080  !important;
 
 /* Parallax Section */
   .banner {
-    background-image: url("S:/NCOD/NCOD Staff Folders/Cheyna Brower/AES Text Comments/Free Text Report 2021/Note Pic Free Text.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/scottymoore14/AES-js-hosting/SNote Pic Free Text.jpg");
     height: 300px;
     background-attachment: fixed;
     background-size: cover;
