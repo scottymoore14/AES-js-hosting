@@ -92,7 +92,7 @@ ul li:hover a {
 
 /* Hero Section */
   .hero {
-    background-image: url("https://cdn.jsdelivr.net/gh/scottymoore14/AES-js-hosting/Ssticky stack 2.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/scottymoore14/AES-js-hosting/sticky stack 2.jpg");
     height: 418px;
     background-attachment: fixed;
     background-size: cover;
@@ -276,7 +276,7 @@ background-color: #7a8080  !important;
 
 /* Parallax Section */
   .banner {
-    background-image: url("https://cdn.jsdelivr.net/gh/scottymoore14/AES-js-hosting/SNote Pic Free Text.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/scottymoore14/AES-js-hosting/Note Pic Free Text.jpg");
     height: 300px;
     background-attachment: fixed;
     background-size: cover;
