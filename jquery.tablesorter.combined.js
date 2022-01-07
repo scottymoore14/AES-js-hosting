@@ -59,7 +59,7 @@
 			sortAppend       : null,       // column(s) sorted last; always applied
 			sortStable       : false,      // when sorting two rows with exactly the same content, the original sort order is maintained
 
-			sortInitialOrder : 'asc',      // sort direction on first click
+			sortInitialOrder : 'desc',      // sort direction on first click
 			sortLocaleCompare: false,      // replace equivalent character (accented characters)
 			sortReset        : false,      // third click on the header will reset column to default - unsorted
 			sortRestart      : false,      // restart sort to 'sortInitialOrder' when clicking on previously unsorted columns
